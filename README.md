@@ -1,3 +1,4 @@
+//api end point
 
 // api End point of create book : http://localhost:5001/api/v1/book/createbook
 //we will pass title,author and summary in boady after that we will create entry of this book
@@ -18,3 +19,9 @@
 //in this api we have to pass id paramater of that book based on that id we will search id in data base and get info of that book
 
 
+//instruiction to run setup
+
+//first make clone of this repo
+//after cloning into local machine 
+// run npm init command in our termianl 
+//use npm run dev command to run apps
